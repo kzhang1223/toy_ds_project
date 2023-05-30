@@ -1,3 +1,5 @@
 # toy_ds_project
 
-projecct creation date: May 30, 2023
+project creation date: May 30, 2023
+
+author: kathy
